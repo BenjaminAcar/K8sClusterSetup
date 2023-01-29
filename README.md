@@ -1,2 +1,3 @@
 # K8sClusterSetup
-In this repository, I wanna show you, how to setup a new K8s cluster, with all necessary dependencies etc.
+This repository contains a yaml file for the following Medium article, describing how to setup a K8s cluster:
+https://medium.com/@benjaminacar.private/a-comprehensive-guide-to-setup-a-new-k8s-cluster-4b88e6f021bc
